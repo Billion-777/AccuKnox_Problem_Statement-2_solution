@@ -1,1 +1,4 @@
-# AccuKnox_Problem_Statement-2_solution
+# Kubernetes Security Scan Results
+- **Tool Used**: Kubescape  
+- **Cluster**: Minikube (local)  
+- **Purpose**: Demo for vulnerability assessment  
